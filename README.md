@@ -26,7 +26,8 @@ The dataset contains customer information such as:
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard]
+(dashboard.png)
 
 ## Files in Repository
 - Customer-Churn-Analysis.pbix → Power BI dashboard file
