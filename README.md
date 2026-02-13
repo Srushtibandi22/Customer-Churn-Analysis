@@ -15,7 +15,8 @@ This Power BI dashboard analyzes SBI customer churn data to identify patterns in
 - Data Visualization
 
 ## Dashboard Screenshot
-(Add image here after uploading)
+![Dashboard](dashboard.png)
+
 
 ## Author
 Srushti Bandi
